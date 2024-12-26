@@ -1,6 +1,6 @@
 # Simple Calculator
 
-A full-stack calculator app with a Java Spring Boot backend and React frontend. Perform basic arithmetic operations (addition, subtraction, multiplication, division) via RESTful APIs.
+A basic calculator application built with a Java Spring Boot backend and React frontend. This project allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The frontend communicates with the backend through RESTful APIs, and the application demonstrates the integration of Java and React for a full-stack solution.
 
 ## Features
 - Addition, subtraction, multiplication, and division operations.
